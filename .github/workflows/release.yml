@@ -8,7 +8,7 @@ on:
 env:
   REGISTRY: quay.io
   REPOSITORY: beknazar
-  VERSION: 30.1.29
+  VERSION: 30.1.30
 
 jobs:
   # build
